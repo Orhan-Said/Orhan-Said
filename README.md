@@ -1,12 +1,3 @@
----
-title: 'Title'
-author: 'Orhan-Said'
-date: '03-06-2025'
-output:
-  html_document:
-    self_contained: no
----
-
 <img style="width: 100vw" src="./head.gif">
 <div style="padding:20px; background:#505050">
 <h1 style="color:#f2f2f2; text-align:center">Hi 👋, I'm Orhan Said</h1>
